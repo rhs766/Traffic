@@ -1,5 +1,5 @@
 # Traffic
-## Simulation of cars using a four-way intersection.
+Simulation of cars using a four-way intersection.
 
 Parent process determines order of cars, creates child processes using  
 	fork() per car and prints the current direction per direction change.  
